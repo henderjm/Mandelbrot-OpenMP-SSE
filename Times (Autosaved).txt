@@ -1,0 +1,24 @@
+Mandlebrot tests:
+	No optimisation
+	- Total executing time microseconds
+
+
+
+	Optimisation
+		SSE
+		Total executing time 70220082 microseconds -- no opt
+		Total executing time 86022973 microseconds -- nightmare
+		
+		Total executing time 86022973 microseconds
+		Total executing time 19921514 microseconds -- woop woop
+		Total executing time 7382732 microseconds
+
+
+FASTEST SO FAR:
+	Total executing time 19921514 microseconds -- SSE only	
+
+
+Render done 11 1.24337	Time taken: 22801440
+Render done 11 1.24337	Time taken: 21950216
+
+Total executing time 7790424 microseconds

@@ -1,0 +1,10 @@
+Mandlebrot tests:
+	No optimisation
+	- 
+
+
+	Optimisation
+		SSE
+		Total executing time 69336648 microseconds
+		Total executing time 25612550 microseconds
+
